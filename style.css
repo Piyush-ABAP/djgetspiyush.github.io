@@ -37,13 +37,13 @@ body::after {
 
 .cover-page { --watermark-image: url("cover-watermark.jpg"); }
 
-.events-page { --watermark-image: url("images/events-watermark.jpg"); }
+.events-page { --watermark-image: url("events-watermark.jpg"); }
 
-.tilak-page { --watermark-image: url("images/tilak-watermark.jpg"); }
+.tilak-page { --watermark-image: url("tilak-watermark.jpg"); }
 
-.haldi-page { --watermark-image: url("images/haldi-watermark.jpg"); }
+.haldi-page { --watermark-image: url("haldi-watermark.jpg"); }
 
-.baraat-page { --watermark-image: url("images/baraat-watermark.jpg"); }
+.baraat-page { --watermark-image: url("baraat-watermark.jpg"); }
 
 .page-container { width: min(1100px, 92%); margin: 0 auto; padding: 50px 0; }
 
