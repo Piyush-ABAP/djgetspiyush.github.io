@@ -35,7 +35,7 @@ body::after {
 
 }
 
-.cover-page { --watermark-image: url("images/cover-watermark.jpg"); }
+.cover-page { --watermark-image: url("cover-watermark.jpg"); }
 
 .events-page { --watermark-image: url("images/events-watermark.jpg"); }
 
